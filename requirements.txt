@@ -1,0 +1,5 @@
+pyromod==3.6.1
+pyrogram==2.0.106
+requests==2.31.0
+kvsqlite==0.2.1
+datetime==5.4
